@@ -58,3 +58,6 @@ buttonTwo.onclick = function filter() {
   });
   console.log(filteredPhones);
 };
+
+const buttonffff = document.querySelector("button");
+const buttonddd = document.querySelector("button");
